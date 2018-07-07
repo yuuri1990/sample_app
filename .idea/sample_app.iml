@@ -10,66 +10,91 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="actioncable (vbundled(5.1.6)) [path][gem]" type="ruby">
+=======
+      <library name="actioncable (vbundled(5.1.4)) [path][gem]" type="ruby">
+>>>>>>> rails-flavored-ruby
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actioncable-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actioncable-5.1.4/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actioncable-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actioncable-5.1.4/lib" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="actionmailer (vbundled(5.1.6)) [path][gem]" type="ruby">
+=======
+      <library name="actionmailer (vbundled(5.1.4)) [path][gem]" type="ruby">
+>>>>>>> rails-flavored-ruby
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actionmailer-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actionmailer-5.1.4/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actionmailer-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actionmailer-5.1.4/lib" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="actionpack (vbundled(5.1.6)) [path][gem]" type="ruby">
+=======
+      <library name="actionpack (vbundled(5.1.4)) [path][gem]" type="ruby">
+>>>>>>> rails-flavored-ruby
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actionpack-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actionpack-5.1.4/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actionpack-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actionpack-5.1.4/lib" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="actionview (vbundled(5.1.6)) [path][gem]" type="ruby">
+=======
+      <library name="actionview (vbundled(5.1.4)) [path][gem]" type="ruby">
+>>>>>>> rails-flavored-ruby
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actionview-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actionview-5.1.4/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actionview-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/actionview-5.1.4/lib" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="activejob (vbundled(5.1.6)) [path][gem]" type="ruby">
+=======
+      <library name="activejob (vbundled(5.1.4)) [path][gem]" type="ruby">
+>>>>>>> rails-flavored-ruby
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activejob-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activejob-5.1.4/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activejob-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activejob-5.1.4/lib" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="activemodel (vbundled(5.1.6)) [path][gem]" type="ruby">
+=======
+      <library name="activemodel (vbundled(5.1.4)) [path][gem]" type="ruby">
+>>>>>>> rails-flavored-ruby
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activemodel-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activemodel-5.1.4/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activemodel-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activemodel-5.1.4/lib" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="activerecord (vbundled(5.1.6)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.6/lib" />
@@ -81,20 +106,58 @@
         </SOURCES>
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.6/examples" />
+=======
+      <library name="activerecord (vbundled(5.1.4)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/examples" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/examples" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/examples" />
+>>>>>>> rails-flavored-ruby
         </excluded>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="activesupport (vbundled(5.1.6)) [path][gem]" type="ruby">
+=======
+      <library name="activesupport (vbundled(5.1.4)) [path][gem]" type="ruby">
+>>>>>>> rails-flavored-ruby
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activesupport-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activesupport-5.1.4/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activesupport-5.1.6/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/activesupport-5.1.4/lib" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
+=======
+      <library name="ansi (vbundled(1.5.0)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ansi-1.5.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ansi-1.5.0/demo" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ansi-1.5.0/test" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ansi-1.5.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ansi-1.5.0/demo" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ansi-1.5.0/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ansi-1.5.0/demo" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ansi-1.5.0/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+>>>>>>> rails-flavored-ruby
       <library name="arel (vbundled(8.0.0)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/arel-8.0.0/lib" />
@@ -105,8 +168,48 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="bindex (vbundled(0.5.0)) [path][gem]" type="ruby">
         <CLASSES>
+=======
+      <library name="autoprefixer-rails (vbundled(8.6.2)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/autoprefixer-rails-8.6.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/autoprefixer-rails-8.6.2/spec" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/autoprefixer-rails-8.6.2/vendor" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/autoprefixer-rails-8.6.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/autoprefixer-rails-8.6.2/spec" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/autoprefixer-rails-8.6.2/vendor" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/autoprefixer-rails-8.6.2/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcrypt (vbundled(3.1.11)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/spec" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bindex (vbundled(0.5.0)) [path][gem]" type="ruby">
+        <CLASSES>
+>>>>>>> rails-flavored-ruby
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/ext" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/lib" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/test" />
@@ -115,10 +218,41 @@
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/ext" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/lib" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/test" />
+<<<<<<< HEAD
         </SOURCES>
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/ext" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/test" />
+=======
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bootstrap-sass (vbundled(3.3.7)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/tasks" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/assets" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/templates" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/tasks" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/assets" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/templates" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/tasks" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/assets" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/bootstrap-sass-3.3.7/templates" />
+>>>>>>> rails-flavored-ruby
         </excluded>
       </library>
     </orderEntry>
@@ -144,6 +278,7 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="byebug (vbundled(10.0.2)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/exe" />
@@ -158,10 +293,44 @@
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/exe" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/ext" />
+=======
+      <library name="byebug (vbundled(9.0.6)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext" />
+>>>>>>> rails-flavored-ruby
         </excluded>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
+=======
+      <library name="coderay (vbundled(1.1.2)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/coderay-1.1.2/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/coderay-1.1.2/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/coderay-1.1.2/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/coderay-1.1.2/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/coderay-1.1.2/bin" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+>>>>>>> rails-flavored-ruby
       <library name="coffee-rails (vbundled(4.2.2)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/coffee-rails-4.2.2/lib" />
@@ -242,6 +411,7 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="ffi (vbundled(1.9.23)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.23/ext" />
@@ -256,6 +426,37 @@
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.23/ext" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.23/samples" />
+=======
+      <library name="ffi (vbundled(1.9.25)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/samples" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/samples" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/samples" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="formatador (vbundled(0.2.5)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/formatador-0.2.5/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/formatador-0.2.5/tests" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/formatador-0.2.5/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/formatador-0.2.5/tests" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/formatador-0.2.5/tests" />
+>>>>>>> rails-flavored-ruby
         </excluded>
       </library>
     </orderEntry>
@@ -270,6 +471,7 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="i18n (vbundled(1.0.1)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/i18n-1.0.1/lib" />
@@ -280,6 +482,50 @@
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/i18n-1.0.1/lib" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/i18n-1.0.1/test" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/i18n-1.0.1/gemfiles" />
+=======
+      <library name="guard (vbundled(2.13.0)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-2.13.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-2.13.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-2.13.0/man" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-2.13.0/images" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-2.13.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-2.13.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-2.13.0/man" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-2.13.0/images" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-2.13.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-2.13.0/man" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-2.13.0/images" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guard-compat (vbundled(1.2.1)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-compat-1.2.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-compat-1.2.1/spec" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-compat-1.2.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-compat-1.2.1/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-compat-1.2.1/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guard-minitest (vbundled(2.4.4)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-minitest-2.4.4/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/guard-minitest-2.4.4/lib" />
+>>>>>>> rails-flavored-ruby
         </SOURCES>
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/i18n-1.0.1/test" />
@@ -288,6 +534,27 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
+=======
+      <library name="i18n (vbundled(0.9.5)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/i18n-0.9.5/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/i18n-0.9.5/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/i18n-0.9.5/gemfiles" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/i18n-0.9.5/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/i18n-0.9.5/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/i18n-0.9.5/gemfiles" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/i18n-0.9.5/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/i18n-0.9.5/gemfiles" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+>>>>>>> rails-flavored-ruby
       <library name="jbuilder (vbundled(2.7.0)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jbuilder-2.7.0/lib" />
@@ -298,6 +565,12 @@
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jbuilder-2.7.0/lib" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jbuilder-2.7.0/test" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jbuilder-2.7.0/gemfiles" />
+<<<<<<< HEAD
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jbuilder-2.7.0/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jbuilder-2.7.0/gemfiles" />
+=======
         </SOURCES>
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jbuilder-2.7.0/test" />
@@ -306,6 +579,25 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="jquery-rails (vbundled(4.3.1)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jquery-rails-4.3.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jquery-rails-4.3.1/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jquery-rails-4.3.1/vendor" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jquery-rails-4.3.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jquery-rails-4.3.1/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jquery-rails-4.3.1/vendor" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/jquery-rails-4.3.1/test" />
+>>>>>>> rails-flavored-ruby
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="listen (vbundled(3.1.5)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/listen-3.1.5/bin" />
@@ -317,6 +609,19 @@
         </SOURCES>
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/listen-3.1.5/bin" />
+=======
+      <library name="listen (vbundled(3.0.8)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/listen-3.0.8/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/listen-3.0.8/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/listen-3.0.8/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/listen-3.0.8/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/listen-3.0.8/bin" />
+>>>>>>> rails-flavored-ruby
         </excluded>
       </library>
     </orderEntry>
@@ -339,6 +644,24 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
+=======
+      <library name="lumberjack (vbundled(1.0.13)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/lumberjack-1.0.13/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/lumberjack-1.0.13/spec" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/lumberjack-1.0.13/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/lumberjack-1.0.13/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/lumberjack-1.0.13/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+>>>>>>> rails-flavored-ruby
       <library name="mail (vbundled(2.7.0)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/mail-2.7.0/lib" />
@@ -408,9 +731,33 @@
         <SOURCES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/minitest-5.11.3/lib" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/minitest-5.11.3/test" />
+<<<<<<< HEAD
         </SOURCES>
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/minitest-5.11.3/test" />
+=======
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/minitest-5.11.3/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="minitest-reporters (vbundled(1.1.14)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/minitest-reporters-1.1.14/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/minitest-reporters-1.1.14/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/minitest-reporters-1.1.14/assets" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/minitest-reporters-1.1.14/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/minitest-reporters-1.1.14/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/minitest-reporters-1.1.14/assets" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/minitest-reporters-1.1.14/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/minitest-reporters-1.1.14/assets" />
+>>>>>>> rails-flavored-ruby
         </excluded>
       </library>
     </orderEntry>
@@ -425,6 +772,7 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="mysql2 (vbundled(0.4.10)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/mysql2-0.4.10/ext" />
@@ -439,6 +787,14 @@
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/mysql2-0.4.10/spec" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/mysql2-0.4.10/support" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/mysql2-0.4.10/examples" />
+=======
+      <library name="nenv (vbundled(0.3.0)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nenv-0.3.0/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nenv-0.3.0/lib" />
+>>>>>>> rails-flavored-ruby
         </SOURCES>
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/mysql2-0.4.10/ext" />
@@ -473,6 +829,7 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="nokogiri (vbundled(1.8.2)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.2/bin" />
@@ -499,10 +856,39 @@
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.2/tasks" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.2/patches" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.2/suppressions" />
+=======
+      <library name="nokogiri (vbundled(1.8.3)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/tasks" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/patches" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/suppressions" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/tasks" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/patches" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/suppressions" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/tasks" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/patches" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.8.3/suppressions" />
+>>>>>>> rails-flavored-ruby
         </excluded>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="puma (vbundled(3.11.4)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.11.4/bin" />
@@ -523,6 +909,85 @@
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.11.4/ext" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.11.4/docs" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.11.4/tools" />
+=======
+      <library name="notiffany (vbundled(0.1.1)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/notiffany-0.1.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/notiffany-0.1.1/images" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/notiffany-0.1.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/notiffany-0.1.1/images" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/notiffany-0.1.1/images" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pg (vbundled(0.18.4)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pg-0.18.4/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pg-0.18.4/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pg-0.18.4/spec" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pg-0.18.4/sample" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pg-0.18.4/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pg-0.18.4/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pg-0.18.4/spec" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pg-0.18.4/sample" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pg-0.18.4/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pg-0.18.4/spec" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pg-0.18.4/sample" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pry (vbundled(0.11.3)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pry-0.11.3/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pry-0.11.3/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pry-0.11.3/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pry-0.11.3/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/pry-0.11.3/bin" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="puma (vbundled(3.9.1)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/docs" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/tools" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/.github" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/gemfiles" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/docs" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/tools" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/.github" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/gemfiles" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/docs" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/tools" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/.github" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/puma-3.9.1/gemfiles" />
+>>>>>>> rails-flavored-ruby
         </excluded>
       </library>
     </orderEntry>
@@ -561,12 +1026,34 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="rails (vbundled(5.1.6)) [path][gem]" type="ruby">
+=======
+      <library name="rails (vbundled(5.1.4)) [path][gem]" type="ruby">
+>>>>>>> rails-flavored-ruby
         <CLASSES />
         <SOURCES />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
+=======
+      <library name="rails-controller-testing (vbundled(1.0.2)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rails-controller-testing-1.0.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rails-controller-testing-1.0.2/test" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rails-controller-testing-1.0.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rails-controller-testing-1.0.2/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rails-controller-testing-1.0.2/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+>>>>>>> rails-flavored-ruby
       <library name="rails-dom-testing (vbundled(2.0.3)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rails-dom-testing-2.0.3/lib" />
@@ -597,6 +1084,7 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="railties (vbundled(5.1.6)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/railties-5.1.6/exe" />
@@ -608,12 +1096,45 @@
         </SOURCES>
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/railties-5.1.6/exe" />
+=======
+      <library name="rails-i18n (vbundled(5.1.1)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rails-i18n-5.1.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rails-i18n-5.1.1/rails" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rails-i18n-5.1.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rails-i18n-5.1.1/rails" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rails-i18n-5.1.1/rails" />
+>>>>>>> rails-flavored-ruby
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+<<<<<<< HEAD
+      <library name="rake (vbundled(12.3.1)) [path][gem]" type="ruby">
+        <CLASSES>
+=======
+      <library name="railties (vbundled(5.1.4)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/railties-5.1.4/exe" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/railties-5.1.4/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/railties-5.1.4/exe" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/railties-5.1.4/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/railties-5.1.4/exe" />
         </excluded>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="rake (vbundled(12.3.1)) [path][gem]" type="ruby">
         <CLASSES>
+>>>>>>> rails-flavored-ruby
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rake-12.3.1/bin" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rake-12.3.1/doc" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/rake-12.3.1/exe" />
@@ -666,12 +1187,16 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="ruby_dep (vbundled(1.5.0)) [path][gem]" type="ruby">
+=======
+      <library name="ruby-progressbar (vbundled(1.9.0)) [path][gem]" type="ruby">
+>>>>>>> rails-flavored-ruby
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ruby_dep-1.5.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ruby-progressbar-1.9.0/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ruby_dep-1.5.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/ruby-progressbar-1.9.0/lib" />
         </SOURCES>
       </library>
     </orderEntry>
@@ -710,7 +1235,11 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="sass-rails (vbundled(5.0.7)) [path][gem]" type="ruby">
+=======
+      <library name="sass-rails (vbundled(5.0.6)) [path][gem]" type="ruby">
+>>>>>>> rails-flavored-ruby
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sass-rails-5.0.7/lib" />
         </CLASSES>
@@ -720,6 +1249,24 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
+=======
+      <library name="shellany (vbundled(0.0.1)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/shellany-0.0.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/shellany-0.0.1/spec" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/shellany-0.0.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/shellany-0.0.1/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/shellany-0.0.1/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+>>>>>>> rails-flavored-ruby
       <library name="spring (vbundled(2.0.2)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/spring-2.0.2/bin" />
@@ -750,6 +1297,7 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="sprockets (vbundled(3.7.1)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sprockets-3.7.1/bin" />
@@ -761,6 +1309,19 @@
         </SOURCES>
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sprockets-3.7.1/bin" />
+=======
+      <library name="sprockets (vbundled(3.7.2)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sprockets-3.7.2/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sprockets-3.7.2/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sprockets-3.7.2/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sprockets-3.7.2/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sprockets-3.7.2/bin" />
+>>>>>>> rails-flavored-ruby
         </excluded>
       </library>
     </orderEntry>
@@ -775,6 +1336,33 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
+=======
+      <library name="sqlite3 (vbundled(1.3.13)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/faq" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/tasks" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/faq" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/tasks" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/faq" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/sqlite3-1.3.13/tasks" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+>>>>>>> rails-flavored-ruby
       <library name="thor (vbundled(0.20.0)) [path][gem]" type="ruby">
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/thor-0.20.0/bin" />
@@ -831,6 +1419,35 @@
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/tilt-2.0.8/man" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/tilt-2.0.8/docs" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/tilt-2.0.8/test" />
+<<<<<<< HEAD
+=======
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/tilt-2.0.8/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/tilt-2.0.8/man" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/tilt-2.0.8/docs" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/tilt-2.0.8/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="turbolinks (vbundled(5.0.1)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/turbolinks-5.0.1/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/turbolinks-5.0.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="turbolinks-source (vbundled(5.1.0)) [path][gem]" type="ruby">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/turbolinks-source-5.1.0/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/turbolinks-source-5.1.0/lib" />
+>>>>>>> rails-flavored-ruby
         </SOURCES>
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/tilt-2.0.8/bin" />
@@ -856,7 +1473,11 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="uglifier (vbundled(4.1.11)) [path][gem]" type="ruby">
+=======
+      <library name="uglifier (vbundled(3.2.0)) [path][gem]" type="ruby">
+>>>>>>> rails-flavored-ruby
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/uglifier-4.1.11/lib" />
         </CLASSES>
@@ -866,7 +1487,11 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+<<<<<<< HEAD
       <library name="web-console (vbundled(3.6.2)) [path][gem]" type="ruby">
+=======
+      <library name="web-console (vbundled(3.5.1)) [path][gem]" type="ruby">
+>>>>>>> rails-flavored-ruby
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/web-console-3.6.2/lib" />
         </CLASSES>
